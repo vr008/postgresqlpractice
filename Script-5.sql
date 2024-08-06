@@ -1,0 +1,1 @@
+select rental_id from rental group by rental_id order by rental_id;
